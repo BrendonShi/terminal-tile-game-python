@@ -3,10 +3,15 @@ An old version of my python game from scratch (New version is not finished yet)
 
 ## The game can be controlled with the keyboard.
 W, A, S, D - Moves you in different directions.
+
 ESC - Clears the log from all the messages.
+
 UP, DOWN - Moves the arrow in your inventory, that helps to choose the item.
+
 LEFT - Switches between opened container and inventory. For example when you have opened the crafting table, you can switch between it and inventory to transfer items.
+
 RIGHT - Transfers an item to opened container or inventory (depends on what container are you currently in, it moves an item to the opposite).
+
 . (dot) - The button to craft when a crafting table is open.
 
 ---
