@@ -1,0 +1,14 @@
+{
+    "Wooden Sword": {
+        "Wood": 2,
+        "Stick": 1
+    },
+    "Mana Potion": {
+        "Blue Mango": 1,
+        "Moon Flower": 5
+    },
+    "Health Potion": {
+        "Monster Eye": 1,
+        "Red Moon Flower": 4
+    }
+}
