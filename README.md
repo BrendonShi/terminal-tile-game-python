@@ -16,6 +16,10 @@ RIGHT - Transfers an item to opened container or inventory (depends on what cont
 
 ---
 
+The font I used for terminal to display emojis: "JetBrainsMono Nerd Font Propo"
+
+---
+
 ### Movement
 
 ![wezterm-gui_ynyknee7X8](https://github.com/user-attachments/assets/39f139b7-38e1-4b85-b099-e549e519ceb9)
