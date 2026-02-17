@@ -1,5 +1,5 @@
 # Terminal Python Game
-An old version of my python game from scratch (New version is not finished yet)
+My python game from scratch (The game is not finished yet)
 
 ## The game can be controlled with the keyboard.
 W, A, S, D - Moves you in different directions.
